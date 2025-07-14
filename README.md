@@ -20,7 +20,7 @@ This project demonstrates basic PHP backend logic with a phpMyAdmin database con
 - Laragon (local dev server)
 - HTML5, CSS3
 
-## 📖 How to Run
+## How to Run
 
 1. Install [Laragon](https://laragon.org/)
 2. Clone this repository into your `C:\laragon\www\` directory
