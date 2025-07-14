@@ -25,7 +25,7 @@ This project demonstrates basic PHP backend logic with a phpMyAdmin database con
 1. Install [Laragon](https://laragon.org/)
 2. Clone this repository into your `C:\laragon\www\` directory
 3. Create a MySQL database (phpMyAdmin)
-4. Import your `database.sql` file 
+4. Import the `crud.sql` file 
 5. Update database credentials in `connect.php`
 6. Start Apache and MySQL in Laragon
 7. Access the project at `http://localhost/crud/`
